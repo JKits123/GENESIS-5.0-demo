@@ -1,1 +1,6 @@
-{"hazards":[{"type":"Working at Height","mitigation":"Use scaffold or mobile platform, harness if above 2m."},{"type":"Hot Works","mitigation":"Permit required, fire watch, extinguishers on hand."}]}
+{
+  "hazards": [
+    {"id": 1, "name": "Working at height", "risk": "Fall from elevation", "controls": ["Harness", "Scaffold", "Training"]},
+    {"id": 2, "name": "Manual handling", "risk": "Strain or injury", "controls": ["Team lift", "Training", "Trolley"]}
+  ]
+}
