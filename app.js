@@ -1,1 +1,2 @@
-// GENESIS 5.0 Main Logic Script
+// JS logic for GENESIS 5.0 Phase 2
+console.log('GENESIS loaded');
