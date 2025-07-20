@@ -1,6 +1,1 @@
-{
-  "hazards": [
-    {"id": 1, "name": "Working at height", "risk": "Fall from elevation", "controls": ["Harness", "Scaffold", "Training"]},
-    {"id": 2, "name": "Manual handling", "risk": "Strain or injury", "controls": ["Team lift", "Training", "Trolley"]}
-  ]
-}
+{"hazards": [{"name": "Working at Height", "controls": ["Use fall arrest harness", "Install edge protection"]}]}

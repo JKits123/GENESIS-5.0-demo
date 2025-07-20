@@ -1,1 +1,1 @@
-document.getElementById('app').innerHTML = '<p>GENESIS logic goes here. PPE icons and hazard data are ready.</p>';
+// JavaScript logic for GENESIS 5.0
