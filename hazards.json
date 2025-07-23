@@ -1,1 +1,1 @@
-{"hazards": [{"name": "Working at Height", "controls": ["Use fall arrest harness", "Install edge protection"]}]}
+{"hazards": [{"type": "Working at Height", "controls": ["Use scaffold", "Harness", "Trained operative"]}]}
